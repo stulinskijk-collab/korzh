@@ -94,7 +94,7 @@ window.SITE = {
   "poke": "М-м-м, вкусно! 🎂",
   "ink": "#3A1E16",
   "confetti": [
-    "#FFB3C7",
+    "#E87A93",
     "#FFF3D6",
     "#FFE1B0",
     "#CFE8F3",
